@@ -1,0 +1,12 @@
+﻿  socket_server.cpp
+G:\SOCKET\socket_server\socket_server\sent_file.h(21,11): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\socket_server.cpp(107,13): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\socket_server.cpp(57,18): warning C4101: “client_addr_2”: 未引用的局部变量
+G:\SOCKET\socket_server\socket_server\socket_server.cpp(56,18): warning C4101: “client_addr_1”: 未引用的局部变量
+G:\SOCKET\socket_server\socket_server\socket_server.cpp(81,11): warning C4101: “clntAddr”: 未引用的局部变量
+  正在生成代码
+  1 of 148 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  socket_server.vcxproj -> G:\SOCKET\socket_server\x64\Release\socket_server.exe

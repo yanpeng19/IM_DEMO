@@ -1,0 +1,34 @@
+﻿  socket_server.cpp
+G:\SOCKET\socket_server\socket_server\sent_file.h(21,11): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\Base64.h(78,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\Base64.h(95,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\Base64.h(109,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\Base64.h(209,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\alarm.h(82,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\alarm.h(126,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\alarm.h(133,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\IM_MYSQL.h(171,34): warning C4305: “参数”: 从“int”到“const _Elem”截断
+G:\SOCKET\socket_server\socket_server\IM_MYSQL.h(171,34): warning C4305:         with
+G:\SOCKET\socket_server\socket_server\IM_MYSQL.h(171,34): warning C4305:         [
+G:\SOCKET\socket_server\socket_server\IM_MYSQL.h(171,34): warning C4305:             _Elem=char
+G:\SOCKET\socket_server\socket_server\IM_MYSQL.h(171,34): warning C4305:         ]
+G:\SOCKET\socket_server\socket_server\IM_MYSQL.h(171,28): warning C4309: “参数”: 截断常量值
+G:\SOCKET\socket_server\socket_server\MD5.h(100,34): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(164,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(226,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(227,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(228,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(229,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(275,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(276,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(277,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(278,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(354,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\pack.h(368,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\server.h(81,3): warning C4551: 缺少参数列表的函数调用
+G:\SOCKET\socket_server\socket_server\server.h(90,3): warning C4551: 缺少参数列表的函数调用
+G:\SOCKET\socket_server\socket_server\server.h(106,3): warning C4551: 缺少参数列表的函数调用
+G:\SOCKET\socket_server\socket_server\server.h(114,3): warning C4551: 缺少参数列表的函数调用
+G:\SOCKET\socket_server\socket_server\socket_server.cpp(113,13): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+G:\SOCKET\socket_server\socket_server\sent_file.h(34): warning C4715: “sent_file”: 不是所有的控件路径都返回值
+  socket_server.vcxproj -> G:\SOCKET\socket_server\x64\Debug\socket_server.exe

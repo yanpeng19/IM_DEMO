@@ -1,0 +1,18 @@
+﻿  socket_client.cpp
+G:\SOCKET\socket_client\socket_client\pack.h(180,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(181,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(182,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(183,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(221,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(222,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(223,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(224,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\pack.h(262,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\Im_user.h(173,99): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\Im_user.h(199,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\Im_user.h(219,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\Im_user.h(242,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\MD5.h(97,34): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+G:\SOCKET\socket_client\socket_client\socket_client.cpp(88,6): warning C4101: “type_t”: 未引用的局部变量
+G:\SOCKET\socket_client\socket_client\socket_client.cpp(119): warning C4715: “log_in”: 不是所有的控件路径都返回值
+  socket_client.vcxproj -> G:\SOCKET\socket_client\x64\Debug\socket_client.exe

@@ -1,0 +1,6 @@
+﻿  socket_client.cpp
+G:\SOCKET\socket_client\socket_client\socket_client.cpp(47,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 参见“inet_addr”的声明
+G:\SOCKET\socket_client\socket_client\socket_client.cpp(84,6): warning C4101: “type_t”: 未引用的局部变量
+G:\SOCKET\socket_client\socket_client\socket_client.cpp(115): warning C4715: “log_in”: 不是所有的控件路径都返回值
+  socket_client.vcxproj -> G:\SOCKET\socket_client\Debug\socket_client.exe
